@@ -23,7 +23,7 @@ body{
     float: left;
 }
 .pix{
-    width: 60px;
+    width: 100px;
     border-radius: 50%;
     justify-content: space-around;
 
